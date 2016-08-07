@@ -7,3 +7,4 @@ a simple todo demo power by flask
 - flask_sqlalchemy
 - flask_wtf
 
+- push
